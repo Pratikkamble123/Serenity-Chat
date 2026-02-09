@@ -1,0 +1,8 @@
+
+{
+  "name": "Serenity Chat",
+  "description": "A calm, fast, and human-centric real-time chat application with focus on emotional comfort and familiar UX patterns.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
